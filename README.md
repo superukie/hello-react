@@ -1,3 +1,7 @@
+# 해당 프로젝트 목적 
+
+react.js 관련 파일 구조 파악 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
